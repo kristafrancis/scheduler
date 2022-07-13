@@ -4,7 +4,6 @@
 
 A simple calendar app for scheduling your work day
 
-
 ## Built With
 
 - HTML
@@ -14,7 +13,7 @@ A simple calendar app for scheduling your work day
 
 ## Website
 
-[deployed](https://kristafrancis.github.io/super-disco/)
+[deployed]https://kristafrancis.github.io/scheduler/
 
 ## Contribution
 
