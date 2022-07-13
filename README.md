@@ -4,7 +4,6 @@
 
 A simple calendar app for scheduling your work day
 
-/var/folders/lc/zdy49ccn4pd4zr8t_w36w66c0000gn/T/TemporaryItems/NSIRD_screencaptureui_DXSCQw/Screen Shot 2022-07-13 at 7.32.05 PM.png
 
 ## Built With
 
